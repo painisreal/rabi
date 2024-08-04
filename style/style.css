@@ -16,12 +16,14 @@ body {
     visibility: hidden;
     position: relative;
     overflow: hidden;
+    
 }
 
 .container div.six {
     top: 10vh;
     z-index: 1;
-    background-image:url(C:\Users\hp\Desktop\faz\Heart.jpg)
+    /* background-image:url(../img/Heart.jpg);
+    height: 100vh; */
 }
 
 .container div.seven,
@@ -30,7 +32,7 @@ body {
     height: 100vh;
     position: fixed;
     top: 0;
-    background-image:C:\Users\hp\AppData\Local\Temp\135f3b66-1199-4145-9ae4-024142b62d80_sharedrop-2024-08-04-06_42_58.zip.d80\Leg.jpg ;
+    /* background-image:C:\Users\hp\AppData\Local\Temp\135f3b66-1199-4145-9ae4-024142b62d80_sharedrop-2024-08-04-06_42_58.zip.d80\Leg.jpg ; */ /*!issue fix line */
 }
 
 .container > div {
